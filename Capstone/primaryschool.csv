@@ -1,0 +1,185 @@
+rank_2018,primary_school_name,total_vacancy,percentage_balance_vacancy,balance_vacancy
+1, Nanyang Primary School ,370,5.10%, 20/390
+2, Tao Nan School ,318,11.70%, 42/360
+3, Ai Tong School ,310,6.10%, 20/330
+4, Maha Bodhi School ,300,9.10%, 30/330
+5, Rosyth School ,280,6.70%, 20/300
+6, Pei Chun Public School ,280,6.70%, 20/300
+7, Henry Park Primary School ,278,7.30%, 22/300
+8, Chongfu School ,264,12.00%, 36/300
+9, Mee Toh School ,261,27.50%, 99/360
+10, St. Hilda’s Primary School ,250,7.40%, 20/270
+11, South View Primary School ,250,7.40%, 20/270
+12, Pei Hwa Presbyterian Primary School ,249,7.80%, 21/270
+13, Nan Chiau Primary School ,248,17.30%, 52/300
+14, Kong Hwa School ,246,8.90%, 24/270
+15, Holy Innocents’ Primary School ,242,10.40%, 28/270
+16, Rulang Primary School ,242,10.40%, 28/270
+17, Fairfield Methodist School (Primary) ,237,12.20%, 33/270
+18, Anglo-Chinese School (Junior) ,229,15.20%, 41/270
+19, Maris Stella High School ,228,15.60%, 42/270
+20, Catholic High School ,219,8.80%, 21/240
+21, Sengkang Green Primary School ,217,19.60%, 53/270
+22, Frontier Primary School ,216,10.00%, 24/240
+23, Red Swastika School ,214,10.80%, 26/240
+24, Northland Primary School ,210,12.50%, 30/240
+25, Nan Hua Primary School ,210,12.50%, 30/240
+26, Anglo-Chinese School (Primary) ,208,13.30%, 32/240
+27, Temasek Primary School ,206,14.20%, 34/240
+28, Punggol Green Primary School ,206,35.60%, 114/320
+29, Paya Lebar Methodist Girls’ School (Primary) ,202,25.20%, 68/270
+30, Kuo Chuan Presbyterian Primary School ,201,16.30%, 39/240
+31, St. Andrew’s Junior School ,190,20.80%, 50/240
+32, CHIJ St. Nicholas Girls’ School ,189,10.00%, 21/210
+33, St. Joseph’s Institution Junior ,189,21.30%, 51/240
+34, Radin Mas Primary School ,187,11.00%, 23/210
+35, Anderson Primary School ,185,11.90%, 25/210
+36, Gongshang Primary School ,185,11.90%, 25/210
+37, Hong Wen School ,183,12.90%, 27/210
+38, Poi Ching School ,182,24.20%, 58/240
+39, Methodist Girls’ School (Primary) ,180,14.30%, 30/210
+40, Westwood Primary School ,180,25.00%, 60/240
+41, River Valley Primary School ,176,26.70%, 64/240
+42, Bukit Panjang Primary School ,170,29.20%, 70/240
+43, Ngee Ann Primary School ,169,29.60%, 71/240
+44, Rivervale Primary School ,168,30.00%, 72/240
+45, Canberra Primary School ,167,20.50%, 43/210
+46, Singapore Chinese Girls’ Primary School ,166,17.00%, 34/200
+47, Punggol View Primary School ,166,48.10%, 154/320
+48, Admiralty Primary School ,164,21.90%, 46/210
+49, Chij Primary (Toa Payoh) ,163,22.40%, 47/210
+50, Jurong Primary School ,160,23.80%, 50/210
+51, Qifa Primary School ,158,34.20%, 82/240
+52, Raffles Girls’ Primary School ,156,42.20%, 114/270
+53, West Spring Primary School ,155,35.40%, 85/240
+54, Springdale Primary School ,155,42.60%, 115/270
+55, Xinmin Primary School ,154,26.70%, 56/210
+56, Yu Neng Primary School ,151,16.10%, 29/180
+57, Shuqun Primary School ,150,37.50%, 90/240
+58, Yangzheng Primary School ,149,17.20%, 31/180
+59, Keming Primary School ,148,29.50%, 62/210
+60, Chij Our Lady Of The Nativity ,148,38.30%, 92/240
+61, St. Anthony’s Primary School ,147,30.00%, 63/210
+62, Woodlands Primary School ,147,30.00%, 63/210
+63, Compassvale Primary School ,147,38.80%, 93/240
+64, De La Salle School ,147,45.60%, 123/270
+65, Riverside Primary School ,145,31.00%, 65/210
+66, Princess Elizabeth Primary School ,144,31.40%, 66/210
+67, Hougang Primary School ,142,32.40%, 68/210
+68, Concord Primary School ,141,41.30%, 99/240
+69, Junyuan Primary School ,140,22.20%, 40/180
+70, Pasir Ris Primary School ,139,22.80%, 41/180
+71, Horizon Primary School ,139,56.60%, 181/320
+72, Clementi Primary School ,137,42.90%, 103/240
+73, Chongzheng Primary School ,136,24.40%, 44/180
+74, Lakeside Primary School ,136,35.20%, 74/210
+75, Geylang Methodist School (Primary) ,136,49.60%, 134/270
+76, Palm View Primary School ,135,50.00%, 135/270
+77, White Sands Primary School ,133,26.10%, 47/180
+78, West Grove Primary School ,132,37.10%, 78/210
+79, Woodgrove Primary School ,130,38.10%, 80/210
+80, Teck Ghee Primary School ,126,40.00%, 84/210
+81, Jiemin Primary School ,125,40.50%, 85/210
+82, Kheng Cheng School ,124,48.30%, 116/240
+83, Chij (Katong) Primary ,123,41.40%, 87/210
+84, Greenridge Primary School ,122,49.20%, 118/240
+85, Jurong West Primary School ,118,43.80%, 92/210
+86, Evergreen Primary School ,118,43.80%, 92/210
+87, Zhenghua Primary School ,118,50.80%, 122/240
+88, St. Stephen’s School ,116,44.80%, 94/210
+89, North Vista Primary School ,114,57.80%, 156/270
+90, St. Margaret’s Primary School ,112,44.00%, 88/200
+91, Zhangde Primary School ,112,46.70%, 98/210
+92, Xingnan Primary School ,108,40.00%, 72/180
+93, Chij (Kellock) ,108,46.00%, 92/200
+94, Chua Chu Kang Primary School ,108,48.60%, 102/210
+95, Fengshan Primary School ,108,48.60%, 102/210
+96, Naval Base Primary School ,108,55.00%, 132/240
+97, Edgefield Primary School ,108,61.40%, 172/280
+98, Innova Primary School ,104,50.50%, 106/210
+99, Tampines Primary School ,104,50.50%, 106/210
+100, Anchor Green Primary School ,104,61.50%, 166/270
+101, Unity Primary School ,103,51.00%, 107/210
+102, Endeavour Primary School ,101,57.90%, 139/240
+103, Fuhua Primary School ,101,57.90%, 139/240
+104, Casuarina Primary School ,100,44.40%, 80/180
+105, Punggol Primary School ,100,52.40%, 110/210
+106, Greenwood Primary School ,100,58.30%, 140/240
+107, Jing Shan Primary School ,99,34.00%, 51/150
+108, North View Primary School ,98,45.60%, 82/180
+109, Alexandra Primary School ,97,53.80%, 113/210
+110, Queenstown Primary School ,97,59.60%, 143/240
+111, Woodlands Ring Primary School ,97,59.60%, 143/240
+112, Fernvale Primary School ,97,64.10%, 173/270
+113, Punggol Cove Primary School ,97,69.70%, 223/320
+114, Fuchun Primary School ,96,54.30%, 114/210
+115, Tanjong Katong Primary School ,96,60.00%, 144/240
+116, Opera Estate Primary School ,94,47.80%, 86/180
+117, Huamin Primary School ,91,56.70%, 119/210
+118, Haig Girls’ School ,89,50.60%, 91/180
+119, Elias Park Primary School ,88,51.10%, 92/180
+120, Beacon Primary School ,86,64.20%, 154/240
+121, Yishun Primary School ,85,59.50%, 125/210
+122, Greendale Primary School ,83,74.10%, 237/320
+123, Oasis Primary School ,83,74.10%, 237/320
+124, Marymount Convent School ,82,61.00%, 128/210
+125, Corporation Primary School ,82,65.80%, 158/240
+126, Yew Tee Primary School ,81,61.40%, 129/210
+127, Bendemeer Primary School ,81,61.40%, 129/210
+128, Seng Kang Primary School ,81,70.00%, 189/270
+129, Gan Eng Seng Primary School ,80,55.60%, 100/180
+130, Sembawang Primary School ,79,62.40%, 131/210
+131, Bedok Green Primary School ,79,67.10%, 161/240
+132, Wellington Primary School ,78,67.50%, 162/240
+133, Waterway Primary School ,78,75.60%, 242/320
+134, East Spring Primary School ,77,57.20%, 103/180
+135, St. Anthony’s Canossian Primary School ,77,67.90%, 163/240
+136, Pei Tong Primary School ,76,68.30%, 164/240
+137, Xishan Primary School ,76,68.30%, 164/240
+138, Telok Kurau Primary School ,75,68.80%, 165/240
+139, Qihua Primary School ,74,69.20%, 166/240
+140, Yumin Primary School ,73,51.30%, 77/150
+141, Peiying Primary School ,70,66.70%, 140/210
+142, Chij Our Lady Queen Of Peace ,69,61.70%, 111/180
+143, Cantonment Primary School ,69,67.10%, 141/210
+144, Chij Our Lady Of Good Counsel ,68,54.70%, 82/150
+145, Si Ling Primary School ,68,67.60%, 142/210
+146, Boon Lay Garden Primary School ,68,71.70%, 172/240
+147, St. Gabriel’s Primary School ,67,55.30%, 83/150
+148, North Spring Primary School ,67,75.20%, 203/270
+149, Pioneer Primary School ,66,63.30%, 114/180
+150, Changkat Primary School ,65,63.90%, 115/180
+151, Northoaks Primary School ,65,72.90%, 175/240
+152, New Town Primary School ,64,73.30%, 176/240
+153, Ahmad Ibrahim Primary School ,63,70.00%, 147/210
+154, Tampines North Primary School ,63,70.00%, 147/210
+155, Bukit View Primary School ,61,71.00%, 149/210
+156, Cedar Primary School ,59,67.20%, 121/180
+157, Mayflower Primary School ,59,67.20%, 121/180
+158, Dazhong Primary School ,57,72.90%, 153/210
+159, Xinghua Primary School ,57,76.30%, 183/240
+160, Yuhua Primary School ,55,73.80%, 155/210
+161, Lianhua Primary School ,54,74.30%, 156/210
+162, Ang Mo Kio Primary School ,52,71.10%, 128/180
+163, Townsville Primary School ,52,75.20%, 158/210
+164, Teck Whye Primary School ,51,71.70%, 129/180
+165, Park View Primary School ,49,72.80%, 131/180
+166, Marsiling Primary School ,49,79.60%, 191/240
+167, Meridian Primary School ,47,73.90%, 133/180
+168, Bukit Timah Primary School ,46,78.10%, 164/210
+169, Eunos Primary School ,45,70.00%, 105/150
+170, Damai Primary School ,45,78.60%, 165/210
+171, Yio Chu Kang Primary School ,42,80.00%, 168/210
+172, Farrer Park Primary School ,40,77.80%, 140/180
+173, Montfort Junior School ,39,67.50%, 81/120
+174, Canossa Catholic Primary School ,39,67.50%, 81/120
+175, West View Primary School ,39,81.40%, 171/210
+176, Kranji Primary School ,37,75.30%, 113/150
+177, Zhonghua Primary School ,37,79.40%, 143/180
+178, Angsana Primary School ,35,83.30%, 175/210
+179, Blangah Rise Primary School ,28,76.70%, 92/120
+180, Stamford Primary School ,28,84.40%, 152/180
+181, Guangyang Primary School ,25,83.30%, 125/150
+182, Fern Green Primary School ,24,92.00%, 276/300
+183, First Toa Payoh Primary School ,23,84.70%, 127/150
+184, Juying Primary School ,19,89.40%, 161/180
